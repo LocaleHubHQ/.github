@@ -7,13 +7,13 @@ Locale Hub is a platform that helps you to keep all your translations centralize
 
 We also reduce the time you need to deploy your texts into your app.
 
-Learn more at [locale-hub.com](https://locale-hub.com/).
+Learn more at [locale-hub.com](https://www.locale-hub.com/).
 
 > Visitor count<br>
 > <img src="https://profile-counter.glitch.me/locale-hub/count.svg" />
 
 ### 🗺️ This README
-This README will point you to Locale Hub Github repos that you might find helpful. Our [docs site](https://locale-hub.gitbook.io/doc/) is a more comprehensive guide to using Locale Hub.
+This README will point you to Locale Hub Github repos that you might find helpful. Our [docs site](https://www.locale-hub.com/docs) is a more comprehensive guide to using Locale Hub.
 
 ### ✨ Open source
 Locale Hub is Open Source.
@@ -26,4 +26,4 @@ We also welcome you to contribute! Just have a look at the repository that inter
 
 #### Deploying a self-hosted instance
 
-See the [self-hosted documentation](https://locale-hub.gitbook.io/doc/self-hosted/overview) to learn about your options for self-hosting (also known as deploying on-premise).
+See the [self-hosted documentation](https://www.locale-hub.com/docs/self-hosted/overview) to learn about your options for self-hosting (also known as deploying on-premise).
