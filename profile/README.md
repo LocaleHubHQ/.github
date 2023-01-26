@@ -9,6 +9,9 @@ We also reduce the time you need to deploy your texts into your app.
 
 Learn more at [locale-hub.com](https://locale-hub.com/).
 
+> Visitor count<br>
+> <img src="https://profile-counter.glitch.me/locale-hub/count.svg" />
+
 ### 🗺️ This README
 This README will point you to Locale Hub Github repos that you might find helpful. Our [docs site](https://locale-hub.gitbook.io/doc/) is a more comprehensive guide to using Locale Hub.
 
