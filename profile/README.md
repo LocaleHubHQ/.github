@@ -1,10 +1,9 @@
+![image](https://github.com/LocaleHubHQ/.github/assets/5302918/af442998-d234-40e0-8cc2-1a35939569f3)
+
 ## Hi there 👋
 
 ### ⚡ About us
-If you're new to Locale Hub, welcome!
 
-Locale Hub is a platform that helps you to keep all your translations centralized.
+LocaleHub is a localization platform made to keep all your translations centralized.
 
-We also reduce the time you need to deploy your texts into your app.
-
-Learn more at [locale-hub.com](https://www.locale-hub.com/).
+Learn more on [our website](https://www.locale-hub.com/).
