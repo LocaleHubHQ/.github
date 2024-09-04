@@ -6,4 +6,4 @@
 
 LocaleHub is a localization platform made to keep all your translations centralized.
 
-Learn more on [our website](https://www.locale-hub.com/).
+Learn more on [our website](https://www.localehub.io/).
